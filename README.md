@@ -1,6 +1,5 @@
 ![git](https://github.com/user-attachments/assets/a809afd0-8e30-4f4e-aeed-5250686f96d6)
-
-                                                    ## Hi 👋 I am Amir Shahzad
+## Hi 👋 I am Amir Shahzad
                                                     
 **Amir00786/Amir00786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
