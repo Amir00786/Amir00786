@@ -1,10 +1,9 @@
-## Hi there 👋
+![git](https://github.com/user-attachments/assets/a809afd0-8e30-4f4e-aeed-5250686f96d6)
 
+## Hi there 👋
 **Amir00786/Amir00786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:![git](https://github.com/user-attachments/assets/622a3015-606f-4bf7-a88e-102ebed52429)
-
-
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
