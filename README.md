@@ -2,7 +2,8 @@
 
 **Amir00786/Amir00786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![git](https://github.com/user-attachments/assets/622a3015-606f-4bf7-a88e-102ebed52429)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
