@@ -5,7 +5,7 @@
 <h3 align="center"> An experienced front-end developer focused on building applications that drive productivity and support success.</h3>
 
 <h2>What i always play with</h2>
-<div class='' style="display: flex;">
+<div class='' style="display: flex; gap: 10px;">
   <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
