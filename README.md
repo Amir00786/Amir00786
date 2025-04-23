@@ -12,6 +12,33 @@
 <img align="left" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" class="w-4 h-4 mr-1" alt="SASS" />
+<div class="flex flex-wrap gap-2 bg-gray-900 p-4">
+  <span class="bg-blue-600 text-white text-xs font-semibold px-2.5 py-1 rounded flex items-center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" class="w-4 h-4 mr-1" alt="TS" />
+    TYPESCRIPT
+  </span>
+  <span class="bg-yellow-600 text-white text-xs font-semibold px-2.5 py-1 rounded flex items-center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" class="w-4 h-4 mr-1" alt="JS" />
+    JAVASCRIPT
+  </span>
+  <span class="bg-gray-800 text-white text-xs font-semibold px-2.5 py-1 rounded flex items-center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" class="w-4 h-4 mr-1" alt="React" />
+    REACT
+  </span>
+  <span class="bg-orange-600 text-white text-xs font-semibold px-2.5 py-1 rounded flex items-center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" class="w-4 h-4 mr-1" alt="HTML5" />
+    HTML5
+  </span>
+  <span class="bg-teal-600 text-white text-xs font-semibold px-2.5 py-1 rounded flex items-center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" class="w-4 h-4 mr-1" alt="Tailwind" />
+    TAILWINDCSS
+  </span>
+  <span class="bg-pink-500 text-white text-xs font-semibold px-2.5 py-1 rounded flex items-center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" class="w-4 h-4 mr-1" alt="SASS" />
+    SASS
+  </span>
+</div>
+
 <!-- <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> -->
 <!-- <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> -->
 <!-- <img align="left" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> -->
