@@ -30,9 +30,11 @@
     HTML5
   </span>
   <span class="bg-teal-600 text-white text-xs font-semibold px-2.5 py-1 rounded flex items-center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" class="w-4 h-4 mr-1" alt="Tailwind" />
-    TAILWINDCSS
-  </span>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="white" class="w-4 h-4 mr-1">
+    <path d="M24.012 10.33c-4.665 0-7.946 2.54-9.843 7.622 1.967-2.54 4.064-3.57 6.29-3.092 1.368.294 2.347 1.295 3.5 2.476 1.793 1.823 3.81 3.874 7.857 3.874 4.666 0 7.946-2.54 9.844-7.622-1.967 2.54-4.065 3.57-6.29 3.092-1.368-.294-2.347-1.295-3.5-2.476-1.793-1.823-3.81-3.874-7.857-3.874zM14.17 24.886c-4.666 0-7.946 2.54-9.843 7.622 1.966-2.54 4.064-3.57 6.29-3.092 1.368.294 2.346 1.295 3.5 2.476 1.793 1.823 3.81 3.874 7.857 3.874 4.665 0 7.946-2.54 9.843-7.622-1.966 2.54-4.064 3.57-6.29 3.092-1.368-.294-2.346-1.295-3.5-2.476-1.793-1.823-3.81-3.874-7.857-3.874z"/>
+  </svg>
+  TAILWINDCSS
+</span>
   <span class="bg-pink-500 text-white text-xs font-semibold px-2.5 py-1 rounded flex items-center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" class="w-4 h-4 mr-1" alt="SASS" />
     SASS
