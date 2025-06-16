@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/css3-%04E24E26.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+<img src="https://img.shields.io/badge/Design-Pixel-Perfect-hotpink.svg?style=for-the-badge&logo=Design-Pixel-Perfect&logoColor=blue" />
 </div>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" class="w-4 h-4 mr-1" alt="SASS" /> -->
 <!-- <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> -->
