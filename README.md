@@ -7,7 +7,7 @@
 <h2 class='color: #456721;'>My Stack</h2>
 <div class='' style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%04E24E26.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-264DE4.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-%78654310.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind%20css&logoColor=white" />
