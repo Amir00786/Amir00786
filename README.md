@@ -9,13 +9,13 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%04E24E26.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Jquerry-%23007ECC.svg?style=for-the-badge&logo=Jquerry&logoColor=purple" />
+<img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind%20css&logoColor=white" />
+<img src="https://img.shields.io/badge/J%20querry-%23007ECC.svg?style=for-the-badge&logo=J%20querry&logoColor=purple" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/react-%98317ECC.svg?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%21437ACC.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/gitlens-617ACC.svg?style=for-the-badge&logo=gitlens&logoColor=red" />
+<img src="https://img.shields.io/badge/git%20lens-617ACC.svg?style=for-the-badge&logo=git%20lens&logoColor=red" />
 <img src="https://img.shields.io/badge/clean%20code-617ACC.svg?style=for-the-badge&logo=clean%20code&logoColor=white" />
 
 
