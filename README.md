@@ -4,7 +4,7 @@
 <h3 align="center">A talented software engineer with a strong passion for developing innovative solutions. </h3>
 <h3 align="center"> An experienced front-end developer focused on building applications that drive productivity and support success.</h3>
 
-<h2 class='color: #456721'>My Stack</h2>
+<h2 class='color: #456721;'>My Stack</h2>
 <div class='' style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%04E24E26.svg?style=for-the-badge&logo=css3&logoColor=white" />
