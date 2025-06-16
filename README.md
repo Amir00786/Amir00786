@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/git-%21437ACC.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/git%20lens-617ACC.svg?style=for-the-badge&logo=git%20lens&logoColor=red" />
 <img src="https://img.shields.io/badge/clean%20code-617ACC.svg?style=for-the-badge&logo=clean%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/w3%20validate-617ACC.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/w3%20validate-617ACC.svg?style=for-the-badge&logo=w3%20validate&logoColor=white" />
 
 
 </div>
