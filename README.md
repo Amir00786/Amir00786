@@ -13,9 +13,11 @@
 <img src="https://img.shields.io/badge/Jquerry-%23007ECC.svg?style=for-the-badge&logo=Jquerry&logoColor=purple" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%98237ECC.svg?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%98317ECC.svg?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%21437ACC.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/gitlens-617ACC.svg?style=for-the-badge&logo=gitlens&logoColor=red" />
+<img src="https://img.shields.io/badge/clean%20code-617ACC.svg?style=for-the-badge&logo=clean%20code&logoColor=white" />
+
 
 </div>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" class="w-4 h-4 mr-1" alt="SASS" /> -->
