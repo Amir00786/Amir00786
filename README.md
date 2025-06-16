@@ -1,6 +1,6 @@
 ![git](https://github.com/user-attachments/assets/a809afd0-8e30-4f4e-aeed-5250686f96d6)
 
-<h1 align="center">Hi 👋, I'm Amir Shahzad</h1>
+<h1 align="center">Hi there, I'm Amir Shahzad 👋</h1>
 <h3 align="center">A talented software engineer with a strong passion for developing innovative solutions. </h3>
 <h3 align="center"> An experienced front-end developer focused on building applications that drive productivity and support success.</h3>
 
