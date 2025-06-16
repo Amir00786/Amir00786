@@ -4,7 +4,7 @@
 <h3 align="center">A talented software engineer with a strong passion for developing innovative solutions. </h3>
 <h3 align="center"> An experienced front-end developer focused on building applications that drive productivity and support success.</h3>
 
-<h2 class='color: #456721;'>My Stack</h2>
+<h2 class='color: #456721;'>🚀 Tech Stack</h2>
 <div class='' style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-264DE4.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/J%20querry-%23007ECC.svg?style=for-the-badge&logo=J%20querry&logoColor=purple" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%654321CC.svg?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%654321CC.svg?style=for-the-badge&logo=react&logoColor=61dafb" />
 <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
 <img src="https://img.shields.io/badge/git%20lens-617ACC.svg?style=for-the-badge&logo=git%20lens&logoColor=white" />
 <img src="https://img.shields.io/badge/clean%20code-617ACC.svg?style=for-the-badge&logo=clean%20code&logoColor=white" />
