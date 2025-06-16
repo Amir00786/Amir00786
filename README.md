@@ -13,6 +13,9 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Jquerry-%23007ECC.svg?style=for-the-badge&logo=Jquerry&logoColor=purple" />
+<img src="https://img.shields.io/badge/git-%23107ACC.svg?style=for-the-badge&logo=git&logoColor=yellow" />
+<img src="https://img.shields.io/badge/gitlens-%20907CCC.svg?style=for-the-badge&logo=gitlens&logoColor=red" />
+<img src="https://img.shields.io/badge/cleancode-%9007E2C.svg?style=for-the-badge&logo=cleancode&logoColor=orange" />
 </div>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" class="w-4 h-4 mr-1" alt="SASS" /> -->
 <!-- <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> -->
