@@ -56,4 +56,4 @@
 <h2 align="center">Quick stats about me</h2>
 
 | Github Stats | Top Languages |
- ![Rahat's github stats](https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Rahat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+ ![Rahat's github stats](https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Rahat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
