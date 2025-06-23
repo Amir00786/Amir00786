@@ -3,7 +3,7 @@
 ![git](https://github.com/user-attachments/assets/a809afd0-8e30-4f4e-aeed-5250686f96d6)
 
 <h1>
-  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Mukarram Ahmad
+  Hi ![git](https://github.com/user-attachments/assets/a809afd0-8e30-4f4e-aeed-5250686f96d6) My name is Mukarram Ahmad
 </h1>
 ======================================================================================================================================
 <h3 align="center">A talented software engineer with a strong passion for developing innovative solutions. </h3>
