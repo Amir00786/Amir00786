@@ -2,7 +2,9 @@
 
 ![git](https://github.com/user-attachments/assets/a809afd0-8e30-4f4e-aeed-5250686f96d6)
 
-<h1 align="center">Hi there, I'm Amir Shahzad 👋</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/
+176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Mukarram Ahmad
+======================================================================================================================================
 <h3 align="center">A talented software engineer with a strong passion for developing innovative solutions. </h3>
 <h3 align="center"> An experienced front-end developer focused on building applications that drive productivity and support success.</h3>
 
