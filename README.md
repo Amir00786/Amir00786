@@ -1,3 +1,5 @@
+<a href="https://github.com/Amir00786"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Amir00786&style=flat-square" width="125"/></a>
+
 ![git](https://github.com/user-attachments/assets/a809afd0-8e30-4f4e-aeed-5250686f96d6)
 
 <h1 align="center">Hi there, I'm Amir Shahzad 👋</h1>
