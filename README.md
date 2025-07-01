@@ -54,16 +54,4 @@
 <img align="left" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" /> -->
 
-<h2 align="center">Quick stats about me</h2>
-
-<h2 align="center">📊 Github Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true" />
-</p>
-
-<h2 align="center">📘 Top Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide=php" />
-</p>
+<p>My GitHub Stats</p>
