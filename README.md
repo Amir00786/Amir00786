@@ -55,4 +55,4 @@
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" /> -->
 
 <h1>My GitHub Stats</h1>
-<a class='width: 100%; display: block;' href="https://github.com/Amir00786" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a class='width: 100%; display: block;' href="https://github.com/Amir00786" align="left"><img class='width: 100%;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
