@@ -63,4 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=Amir00786&theme=tokyonight" alt="GitHub Streak" />
 </div>
+![GitHub Streak](https://streak-stats.demolab.com?user=Amir00786&theme=tokyonight)
+
 
