@@ -56,3 +56,11 @@
 
 <h1>My GitHub Stats</h1>
 <a class='width: 100%; display: block;' href="https://github.com/Amir00786" align="left"><img class='width: 100%;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🚀 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Amir00786&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
