@@ -59,13 +59,8 @@
 ## 🚀 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Amir00786&theme=tokyonight" alt="GitHub Streak" />
   
   ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=radical)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&layout=compact&theme=radical)
 
 </div>
 
