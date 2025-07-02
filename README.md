@@ -59,7 +59,7 @@
 
 
 <h1>Default Cube's Github Stats</h1>
-<div align="center">
+<div>
   
   ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=radical)
 </div>
