@@ -3,7 +3,7 @@
 ![git](https://github.com/user-attachments/assets/a809afd0-8e30-4f4e-aeed-5250686f96d6)
 
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />, My name is Amir Shahzad.
-# Frontend Developer
+# Frontend Developer & Designer
 
 <h1 class='color: #456721;'>🚀 Tech Stack</h1>
 <div class='' style="display: flex; gap: 10px;">
