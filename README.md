@@ -5,7 +5,7 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />, My name is Amir Shahzad.
 # Frontend Developer & Designer
 
-<h1 class='color: #456721;'>🚀 Tech Stac</h1>
+<h1 class='color: #456721;'>🚀 Tech Stack</h1>
 <div class='' style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-264DE4.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
