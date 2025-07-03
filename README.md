@@ -58,7 +58,7 @@
 <a class='width: 100%; display: block;' href="https://github.com/Amir00786" align="left"><img class='width: 100%;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<h1>Default Cube's Github Stats</h1>
+<h1>Default Cube's GitHub Stats</h1>
 <div>
   
   ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=radical)
