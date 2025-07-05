@@ -20,8 +20,6 @@
 <img src="https://img.shields.io/badge/git%20lens-617ACC.svg?style=for-the-badge&logo=git%20lens&logoColor=white" />
 <img src="https://img.shields.io/badge/clean%20code-617ACC.svg?style=for-the-badge&logo=clean%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/w3%20validate-617ACC.svg?style=for-the-badge&logo=w3%20validate&logoColor=white" />
-
-
 </div>
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" class="w-4 h-4 mr-1" alt="SASS" /> -->
