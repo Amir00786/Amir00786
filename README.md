@@ -1,9 +1,10 @@
 <a href="https://github.com/Amir00786"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Amir00786&style=flat-square" width="125"/></a>
 
 <img 
-  src="<img width="750" height="400" alt="image" src="[https://github.com/user-attachments/assets/7b30d23e-05a5-4a6d-bd97-c97b5a66cecc](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif)" />
-" 
+  src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" 
   alt="git" 
+  width="750" 
+  height="400" 
 />
 
 
