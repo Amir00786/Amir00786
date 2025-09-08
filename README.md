@@ -1,7 +1,8 @@
 <a href="https://github.com/Amir00786"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Amir00786&style=flat-square" width="125"/></a>
 
 <img 
-  src="https://camo.githubusercontent.com/bc425a5c4e99161dca81a32820bad4d14290d90de6308f16eb8e1d904526f5ab/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f44353631324151474f6d77664945356d6c57412f61727469636c652d636f7665725f696d6167652d736872696e6b5f3732305f313238302f302f313637343631373934373232383f653d3231343734383336343726763d6265746126743d4654555f697351365659665635445f7565464850577654385a716744654a47337972384d69386c70666b30" 
+  src="<img width="750" height="400" alt="image" src="[https://github.com/user-attachments/assets/7b30d23e-05a5-4a6d-bd97-c97b5a66cecc](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif)" />
+" 
   alt="git" 
 />
 
