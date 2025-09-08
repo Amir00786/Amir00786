@@ -3,7 +3,7 @@
 <img 
   src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" 
   alt="git" 
-  width="750" 
+  width="100%" 
   height="400" 
 />
 
