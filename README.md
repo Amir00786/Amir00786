@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/ReactJS-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
 <img src="https://img.shields.io/badge/NextJS-25632a?style=for-the-badge&logo=next.js&logoColor=76a410" />
 <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
-<img src="https://img.shields.io/badge/GitLens-617ACC.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI1NiAyNTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTI1NiAxMjhDMjU2IDE5OC42IDIwNi42IDI1NiAxMjggMjU2UzAgMTk4LjYgMCAxMjggNDkuNCAwIDEyOCAwczEyOCA1Ny40IDEyOCAxMjhaIi8+PC9zdmc+" alt="GitLens Badge" />
+<img src="https://img.shields.io/badge/GitLens-617ACC.svg?style=for-the-badge&logoColor=white" alt="GitLens Badge" />
 <img src="https://img.shields.io/badge/clean%20code-617ACC.svg?style=for-the-badge&logo=clean%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/w3%20validate-617ACC.svg?style=for-the-badge&logo=w3%20validate&logoColor=white" />
 </div>
