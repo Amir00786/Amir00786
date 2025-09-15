@@ -24,9 +24,9 @@
 <img src="https://img.shields.io/badge/ReactJS-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
 <img src="https://img.shields.io/badge/NextJS-25632a?style=for-the-badge&logo=next.js&logoColor=76a410" />
 <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
-<img src="https://img.shields.io/badge/GitLens-617ACC.svg?style=for-the-badge&logoColor=white" alt="GitLens Badge" />
-<img src="https://img.shields.io/badge/clean%20code-617ACC.svg?style=for-the-badge&logo=clean%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/w3%20validate-617ACC.svg?style=for-the-badge&logo=w3%20validate&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLens-56431C.svg?style=for-the-badge&logoColor=white" alt="GitLens Badge" />
+<img src="https://img.shields.io/badge/clean%20code-109ACC.svg?style=for-the-badge&logo=clean%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/w3%20validate-444ACC.svg?style=for-the-badge&logo=w3%20validate&logoColor=white" />
 </div>
 
 
