@@ -27,12 +27,12 @@
 <img src="https://img.shields.io/badge/git%20lens-617ACC.svg?style=for-the-badge&logo=git%20lens&logoColor=white" />
 <img src="https://img.shields.io/badge/clean%20code-617ACC.svg?style=for-the-badge&logo=clean%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/w3%20validate-617ACC.svg?style=for-the-badge&logo=w3%20validate&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" class="w-4 h-4 mr-1" alt="SASS" /> -->
 <!-- <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> -->
-<!-- <img align="left" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> -->
 <!-- <img align="left" src="https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white" /> -->
 <!-- <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
 <!-- <img align="left" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> -->
