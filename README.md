@@ -4,7 +4,7 @@
   src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" 
   alt="git" 
   width="100%" 
-  height="60" 
+  height="600" 
 />
 
 
