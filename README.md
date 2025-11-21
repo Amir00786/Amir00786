@@ -71,12 +71,3 @@
 <h1>🔥 Default Cube's GitHub Stats</h1>
 
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=radical)
-
----
-
-<h1>📌 Radar Chart</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&layout=compact&theme=radical" />
-
-</p>
