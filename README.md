@@ -25,54 +25,57 @@
 <img align="left" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" /> -->
-<a href="https://github.com/Amir00786"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Amir00786&style=flat-square" width="125"/></a>
+<a href="https://github.com/Amir00786">
+  <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Amir00786&style=flat-square" width="125"/>
+</a>
 
 <img 
   src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" 
   alt="git" 
   width="100%" 
-  height="600" 
+  height="600"
 />
-
 
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />, My name is Amir Shahzad.
 # Frontend Developer & Designer
 
-<h1 class='color: #456721;'>🚀 Tech Stack</h1>
-<div class='' style="display: flex; gap: 10px;">
+<h1 style='color: #456721;'>🚀 Tech Stack</h1>
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-264DE4.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+<img src="https://img.shields.io/badge/css3-264DE4.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-%78654310.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind%20css&logoColor=white" />
-<img src="https://img.shields.io/badge/J%20querry-%23007ECC.svg?style=for-the-badge&logo=J%20querry&logoColor=purple" />
+<img src="https://img.shields.io/badge/Bootstrap-%23764abc.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/jquery-%230076CC.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/ReactJS-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
-<img src="https://img.shields.io/badge/NextJS-25632a?style=for-the-badge&logo=next.js&logoColor=76a410" />
-<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
-<img src="https://img.shields.io/badge/GitLens-56431C.svg?style=for-the-badge&logoColor=white" alt="GitLens Badge" />
-<img src="https://img.shields.io/badge/clean%20code-109ACC.svg?style=for-the-badge&logo=clean%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/w3%20validate-444ACC.svg?style=for-the-badge&logo=w3%20validate&logoColor=white" />
+<img src="https://img.shields.io/badge/ReactJS-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/NextJS-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLens-512BD4.svg?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/clean%20code-109ACC.svg?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/w3%20validate-444ACC.svg?style=for-the-badge&logoColor=white" />
 </div>
 
+---
 
+<h1>📊 My GitHub Stats</h1>
 
-<h1>My GitHub Stats</h1>
-<a class='width: 100%; display: block;' href="https://github.com/Amir00786" align="left"><img class='width: 100%;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Amir00786">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" />
+</a>
 
+---
 
-<h1>Default Cube's GitHub Stats</h1>
-<div>
-  
-  ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=radical)
+<h1>🔥 Default Cube's GitHub Stats</h1>
+
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=radical)
+
+---
+
+<h1>📌 Radar Chart</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amir00786/main/assets/radar.png" width="350" />
+  <img src="https://raw.githubusercontent.com/Amir00786/Amir00786/main/assets/radar.png" width="350" />
 </p>
-
-
-
-</div>
-
-
