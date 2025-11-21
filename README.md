@@ -69,8 +69,9 @@
   ### 📈 My GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<username>/<repo>/main/assets/radar-chart.png" width="350" />
+  <img src="https://raw.githubusercontent.com/Amir00786/Amir00786/main/assets/radar.png" width="350" />
 </p>
+
 
 </div>
 
