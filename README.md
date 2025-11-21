@@ -77,5 +77,5 @@
 <h1>📌 Radar Chart</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amir00786/Amir00786/assets/radar.png" width="350" />
+  <img src="https://raw.githubusercontent.com/Amir00786/assets/radar.png" width="350" />
 </p>
