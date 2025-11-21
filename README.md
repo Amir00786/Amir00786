@@ -66,6 +66,12 @@
 <div>
   
   ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=radical)
+  ### 📈 My GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<username>/<repo>/main/assets/radar-chart.png" width="350" />
+</p>
+
 </div>
 
 
