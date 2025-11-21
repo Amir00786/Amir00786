@@ -77,5 +77,6 @@
 <h1>📌 Radar Chart</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amir00786/assets/radar.png" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&layout=compact&theme=radical" />
+
 </p>
