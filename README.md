@@ -85,11 +85,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=dark&hide_border=true)
 ![GitHub Stats]
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages"/>
-
-
-
----
-
-<h1>🔥  TOP LANGUAGES</h1>
-
-![Amir's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages))
