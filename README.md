@@ -39,9 +39,9 @@
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />, My name is Amir Shahzad.
 # Frontend Developer & Designer
 
-<h1 style='color: #456721;'>🚀 Tech Stack</h1>
+<h1 style='color: #456721;'>🚀 Tech Stack & Skills</h1>
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<!-- <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-264DE4.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
@@ -56,7 +56,24 @@
 <img src="https://img.shields.io/badge/GitLens-512BD4.svg?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/clean%20code-109ACC.svg?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/w3%20validate-444ACC.svg?style=for-the-badge&logoColor=white" />
-</div>
+</div> -->
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3/SCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API Integration-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI/UX Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design Responsiveness-38BDF8?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
