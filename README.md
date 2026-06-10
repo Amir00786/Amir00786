@@ -25,7 +25,7 @@
 <img align="left" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" /> -->
-<!-- <a href="https://github.com/Amir00786">
+<a href="https://github.com/Amir00786">
   <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Amir00786&style=flat-square" width="125"/>
 </a>
 
@@ -62,34 +62,15 @@
 
 <h1>📊 My GitHub Stats</h1>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&langs_count=10&theme=dark&hide_border=true">
+<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&langs_count=10&theme=dark&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" />
-</a>
+</a> -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=dark&hide_border=true)
+
+
 
 ---
 
 <h1>🔥 Default Cube's GitHub Stats</h1>
 
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=radical) -->
-
-
-<h1 align="center">Hi 👋, I'm Amir</h1>
-<h3 align="center">A passionate developer</h3>
-
----
-
-### 🔗 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-Amir00786-black?logo=github)](https://github.com/Amir00786)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=dark&hide_border=true)
-
----
-
-### 🚀 Top Languages
-> ⚠️ Pehle kuch repositories banao — tab yeh card languages dikhayega!
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&langs_count=10&layout=compact&theme=dark&hide_border=true)
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=radical)
