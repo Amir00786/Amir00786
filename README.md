@@ -1,9 +1,3 @@
-
-<!-- Profile Views -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Amir00786&style=flat-square&color=0e75b6&label=Profile+Views" alt="Profile Views" />
-</p>
-
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Amir Shahzad</h1>
 <h3 align="center">Senior Frontend Engineer | React.js | Next.js | TypeScript</h3>
@@ -148,14 +142,14 @@ I'm interested in building high-quality web applications, solving challenging fr
     <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:amirshahzadvu91@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Amir00786">
     <img src="https://img.shields.io/badge/GitHub-Amir00786-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <i>Building better digital experiences, one component at a time. 🚀</i>
