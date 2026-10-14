@@ -170,3 +170,13 @@ I'm interested in building high-quality web applications, solving challenging fr
 <p align="center">
   <i>Building better digital experiences, one component at a time. 🚀</i>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Amir00786">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Amir00786&theme=tokyo-night&hide_border=true&area=true"
+      alt="Amir Shahzad's GitHub Contribution Activity Graph"
+      width="100%"
+    />
+  </a>
+</p>
