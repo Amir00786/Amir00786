@@ -65,19 +65,6 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
 </p>
 
-### Architecture & Engineering
-
-- Micro-Frontend Architecture
-- Component-Based Architecture
-- Reusable UI Components
-- Design Systems
-- State Management
-- API Integration
-- Code Optimization
-- Performance Optimization
-- Responsive Web Design
-- Cross-Browser Compatibility
-- Clean and Maintainable Code
 
 ### Tools & Platforms
 
@@ -105,7 +92,21 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled Components" />
 </p>
 
----
+### Architecture & Engineering
+
+- Micro-Frontend Architecture
+- Component-Based Architecture
+- Reusable UI Components
+- Design Systems
+- State Management
+- API Integration
+- Code Optimization
+- Performance Optimization
+- Responsive Web Design
+- Cross-Browser Compatibility
+- Clean and Maintainable Code
+
+
 ## 📊 GitHub Statistics
 
 <p align="left">
