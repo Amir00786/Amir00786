@@ -12,15 +12,6 @@
   Building scalable, high-performance web applications with modern frontend technologies.
 </p>
 
-<p align="center">
-  <a href="mailto:amirshahzadvu91@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Amir00786">
-    <img src="https://img.shields.io/badge/GitHub-Amir00786-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -47,11 +38,13 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+  <img src="https://img.shields.io/badge/Sass-hotpink?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white" alt="Less" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
 </p>
 
 ### UI Frameworks & Libraries
@@ -68,10 +61,14 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
 ### State Management & API Integration
 
 <p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
 </p>
 
 ### Architecture & Engineering
@@ -102,61 +99,19 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
 </p>
 
----
+### 🎨 CSS Frameworks & UI Libraries
 
-## 💼 Professional Experience
-
-### Senior Frontend / Software Engineer — DevMinified
-**November 2022 – Present | Pakistan**
-
-- Develop scalable web applications using React.js, Next.js, TypeScript, and JavaScript.
-- Build reusable, responsive, and high-performance UI components.
-- Work with micro-frontend architecture and shared packages across applications.
-- Integrate REST APIs and implement state management using Redux Toolkit, React Query, and Zustand.
-- Manage development and deployment workflows with Vite, Yarn, Git, GitHub, and Vercel.
-- Troubleshoot complex frontend, dependency, build, and deployment issues.
-- Improve code quality, maintainability, and application performance.
-
-### Frontend Developer Intern — Techfoot
-**Lahore, Pakistan | 3-Month Internship**
-
-- Assisted in developing and maintaining responsive web interfaces using React.js and JavaScript.
-- Collaborated with developers on reusable UI components and bug fixes.
-- Gained practical experience with modern frontend development tools and workflows.
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled Components" />
+</p>
 
 ---
-
-## 🌟 Featured Projects
-
-### 🏥 Health Academy
-**Healthcare Education & Career Development**
-
-Website: [ihealthacademy.com](https://ihealthacademy.com/)
-
-- Developed responsive and reusable frontend components for a digital healthcare education platform.
-- Supported medical education, exam preparation, and professional career development experiences.
-- Contributed to interfaces designed for healthcare professionals worldwide.
-
-### 🌐 Yelling Ant
-**Community & Content Discovery Platform**
-
-Website: [yellingant.com](https://yellingant.com/)
-
-- Worked on a community-driven platform for discovering communities and topics.
-- Integrated interactive navigation, custom feeds, and content features.
-- Improved UI consistency, usability, and cross-device compatibility.
-
-### 🤖 Chronly.ai
-**AI-Powered Workforce Management**
-
-Website: [chronly.ai](https://chronly.ai/)
-
-- Developed dashboards and productivity-focused application features.
-- Built interfaces for monitoring team activity, task progress, and delivery timelines.
-- Supported clearer project visibility and team productivity workflows.
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -180,25 +135,6 @@ Website: [chronly.ai](https://chronly.ai/)
   />
 </p>
 
----
-
-## 🎓 Education
-
-**Bachelor of Computer Science (BCS)**  
-Virtual University of Pakistan | 2020–2022
-
-**Intermediate (ICS)**  
-Government Higher Secondary School | 2018–2020
-
----
-
-## 🌍 Languages
-
-- English — Full Professional Proficiency
-- Urdu — Native or Bilingual Proficiency
-- Punjabi — Native or Bilingual Proficiency
-
----
 
 ## 🤝 Let's Connect
 
@@ -210,6 +146,14 @@ I'm interested in building high-quality web applications, solving challenging fr
   </a>
   <a href="https://github.com/Amir00786">
     <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p>
+<p align="center">
+  <a href="mailto:amirshahzadvu91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Amir00786">
+    <img src="https://img.shields.io/badge/GitHub-Amir00786-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
