@@ -126,27 +126,17 @@ I'm interested in building high-quality web applications, solving challenging fr
   <i>Building better digital experiences, one component at a time. 🚀</i>
 </p>
 
+
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Amir00786&theme=tokyo-night&hide_border=true&area=true"
-    alt="Amir Shahzad's GitHub Contribution Activity Graph"
-    width="100%"
-  />
+  <a href="https://github.com/Amir00786">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Amir00786&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity"
+      alt="Amir Shahzad's GitHub Contribution Activity Graph"
+      width="100%"
+    />
+  </a>
 </p>
 
-### Architecture & Engineering
-
-- Micro-Frontend Architecture
-- Component-Based Architecture
-- Reusable UI Components
-- Design Systems
-- State Management
-- API Integration
-- Code Optimization
-- Performance Optimization
-- Responsive Web Design
-- Cross-Browser Compatibility
-- Clean and Maintainable Code
 
 
 ## 📊 GitHub Statistics
