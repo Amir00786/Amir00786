@@ -1,180 +1,180 @@
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Amir Shahzad</h1>
+<h3 align="center">Senior Frontend Engineer | React.js | Next.js | TypeScript</h3>
 
-<!-- ===================================================== -->
-<!--                  AMIR SHAHZAD                         -->
-<!--              GitHub Profile README                   -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-# 👋 Hi, I'm Amir Shahzad
-
-### Senior Frontend Engineer
-
-**Building scalable web applications, modern user interfaces, and AI-powered digital products.**
-
-<p>
-  <a href="https://amir-shahzad-ten.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/amir-shahzad-222776249">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Amir00786">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<p align="center">
+  Building scalable, high-performance web applications with modern frontend technologies.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Amir00786&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
+---
 
-</div>
+## 👨‍💻 About Me
+
+I'm a **Senior Frontend Engineer** with professional experience building scalable, responsive, and high-performance web applications using React.js, Next.js, TypeScript, and JavaScript.
+
+I specialize in reusable UI components, micro-frontend architecture, API integration, state management, and frontend performance optimization. I focus on writing clean, maintainable code and creating intuitive user experiences.
+
+- 💼 Currently working at **DevMinified**
+- 🚀 Building scalable web applications and modern SaaS interfaces
+- 🧩 Experienced in micro-frontend architecture and reusable component systems
+- 🔗 Integrating REST APIs and managing complex application state
+- ⚡ Focused on performance, accessibility, responsiveness, and code quality
+- 🛠️ Working with Vite, Yarn, Git, GitHub, Firebase, and Vercel
+- 🤖 Exploring AI-assisted development tools such as Claude Code
+- 📍 Based in Gujranwala, Pakistan
 
 ---
 
-## 🚀 About Me
-
-I'm a **Frontend Engineer** passionate about building scalable, accessible, responsive, and high-performance web applications.
-
-I combine modern frontend engineering with UI/UX principles to create digital experiences that are both visually polished and technically reliable.
-
-- 💻 Specialized in **React.js, Next.js, TypeScript, and JavaScript**
-- 🎨 Focused on **UI/UX design, reusable components, and design systems**
-- 🏗️ Interested in **scalable architectures and micro-frontends**
-- 🔌 Experienced in frontend development patterns and API integrations
-- 🤖 Exploring **AI-powered applications, AI agents, OpenAI, and n8n automation**
-- ⚡ Focused on performance, maintainability, accessibility, and clean code
-- 🌍 Portfolio: [amir-shahzad-ten.vercel.app](https://amir-shahzad-ten.vercel.app/)
-- 🤝 Open to collaborating on meaningful products and innovative projects
-
----
-
-## 🛠️ Tech Stack
+## 🚀 Tech Stack & Skills
 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend Technologies"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+  <img src="https://img.shields.io/badge/Sass-hotpink?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white" alt="Less" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
 </p>
 
-### State Management & Data Fetching
+### UI Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Zustand-State%20Management-black?style=flat-square" alt="Zustand"/>
-  <img src="https://img.shields.io/badge/TanStack-Query%20%26%20Router-FF4154?style=flat-square" alt="TanStack"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/React_Slick-222222?style=for-the-badge&logo=react&logoColor=white" alt="React Slick" />
 </p>
 
-### UI/UX & Design
+### State Management & API Integration
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Responsive-Design-8B5CF6?style=flat-square" alt="Responsive Design"/>
-  <img src="https://img.shields.io/badge/Design-Systems-EC4899?style=flat-square" alt="Design Systems"/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
 </p>
 
-### Backend Integration, AI & Automation
+
+### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Technologies"/>
-  <img src="https://img.shields.io/badge/OpenAI-AI%20Integration-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/REST-APIs-009688?style=flat-square" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
 </p>
 
-### Tools & Workflow
+### 🎨 CSS Frameworks & UI Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,vercel" alt="Development Tools"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled Components" />
 </p>
 
----
+### Architecture & Engineering
 
-## 💼 What I Do
+- Micro-Frontend Architecture
+- Component-Based Architecture
+- Reusable UI Components
+- Design Systems
+- State Management
+- API Integration
+- Code Optimization
+- Performance Optimization
+- Responsive Web Design
+- Cross-Browser Compatibility
+- Clean and Maintainable Code
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>⚛️ Frontend Engineering</h3>
-      <p>Building scalable applications with React.js, Next.js, TypeScript, reusable components, and modern frontend architecture.</p>
-    </td>
-    <td width="50%">
-      <h3>🎨 UI/UX Engineering</h3>
-      <p>Transforming designs into responsive, pixel-conscious interfaces with consistent layouts, typography, and design systems.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏗️ Scalable Architecture</h3>
-      <p>Working with modular frontend patterns, micro-frontends, state management, and maintainable application structures.</p>
-    </td>
-    <td width="50%">
-      <h3>🤖 AI & API Integrations</h3>
-      <p>Integrating APIs and exploring AI-powered features, OpenAI integrations, intelligent agents, and workflow automation.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌟 Featured Projects
-
-Here are some projects and platforms I've worked on:
-
-| Project | Description | Technologies |
-|---|---|---|
-| [Chronly AI](https://chronly.ai/) | AI-focused digital product | Web Development, AI |
-| [Yelling Ant](https://yellingant.com/) | Web platform and frontend experiences | React, Frontend Development |
-| [JSDT](https://jsdt-frontend.vercel.app/) | Web application and frontend development | React, UI Engineering |
-| [iHealth Academy](https://ihealthacademy.com/) | Healthcare education platform | Web Development |
-
-> Visit my [portfolio](https://amir-shahzad-ten.vercel.app/) for more information about my work.
-
----
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Amir Shahzad's GitHub Statistics"
+  />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Amir's GitHub Statistics"/>
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used GitHub Languages"
+  />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com?user=Amir00786&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=Amir00786&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- Building scalable React.js and Next.js applications
-- Improving frontend architecture and micro-frontend patterns
-- Developing reusable UI components and design systems
-- Exploring AI-assisted development and AI application integrations
-- Learning more about web application security and performance
-- Writing maintainable, accessible, and production-ready code
-
----
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, designers, founders, and teams working on useful digital products.
+I'm interested in building high-quality web applications, solving challenging frontend problems, and collaborating on meaningful digital products.
 
 <p align="center">
-  <a href="https://linkedin.com/in/amir-shahzad-222776249">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ <a href="mailto:amirshahzadvu91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://amir-shahzad-ten.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Amir00786" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="YOUR_FACEBOOK_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://github.com/Amir00786">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
 </p>
+<!-- <p align="center">
+  <a href="mailto:amirshahzadvu91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Amir00786">
+    <img src="https://img.shields.io/badge/GitHub-Amir00786-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p> -->
 
-<div align="center">
+<p align="center">
+  <i>Building better digital experiences, one component at a time. 🚀</i>
+</p>
 
-### 💡 Build. Learn. Improve. Repeat.
-
-*Thanks for visiting my GitHub profile!*
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Amir00786&theme=tokyo-night&hide_border=true&area=true"
+    alt="Amir Shahzad's GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</p>
