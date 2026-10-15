@@ -30,7 +30,7 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
 
 ## 🚀 Tech Stack & Skills
 
-### Frontend Development
+## Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -44,7 +44,7 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
 </p>
 
-### UI Frameworks & Libraries
+## UI Frameworks & Libraries
 
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -55,7 +55,7 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
   <img src="https://img.shields.io/badge/React_Slick-222222?style=for-the-badge&logo=react&logoColor=white" alt="React Slick" />
 </p>
 
-### State Management & API Integration
+## State Management & API Integration
 
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
@@ -69,7 +69,7 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
 </p>
 
 
-### Tools & Platforms
+## Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -83,7 +83,7 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
 </p>
 
-### 🎨 CSS Frameworks & UI Libraries
+## 🎨 CSS Frameworks & UI Libraries
 
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -96,7 +96,6 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
 </p>
 
 ## 🤝 Find Me On
-
 
 <p align="center">
   <a href="mailto:amirshahzadvu91@gmail.com">
