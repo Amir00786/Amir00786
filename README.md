@@ -117,15 +117,17 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
 
 
 
+
 <p align="center">
   <a href="https://github.com/Amir00786">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Amir00786&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Amir00786&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Activity&v=2"
       alt="Amir Shahzad's GitHub Contribution Activity Graph"
       width="100%"
     />
   </a>
 </p>
+
 
 
 
