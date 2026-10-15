@@ -1,10 +1,13 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Amir Shahzad</h1>
 <h3 align="center">Senior Frontend Engineer</h3>
-
 <p align="center">
-  Building scalable, high-performance web applications with modern frontend technologies.
+  <img src="https://komarev.com/ghpvc/?username=Amir00786&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
+<h3 align="center">
+  Building scalable, high-performance web applications with modern frontend technologies.
+</h3>
+
 
 ---
 
