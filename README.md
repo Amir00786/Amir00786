@@ -97,7 +97,7 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
 
 ## 🤝 Find Me On
 
-<p align="center">
+<p align="left">
   <a href="mailto:amirshahzadvu91@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -135,13 +135,6 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
   <img
     src="https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Amir Shahzad's GitHub Statistics"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used GitHub Languages"
   />
 </p>
 
