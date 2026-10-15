@@ -95,6 +95,45 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled Components" />
 </p>
 
+## 🤝 Let's Connect
+
+I'm interested in building high-quality web applications, solving challenging frontend problems, and collaborating on meaningful digital products.
+
+<p align="center">
+ <a href="mailto:amirshahzadvu91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Amir00786" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="YOUR_FACEBOOK_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://github.com/Amir00786">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p>
+<p align="center">
+  <i>Building better digital experiences, one component at a time. 🚀</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Amir00786&theme=tokyo-night&hide_border=true&area=true"
+    alt="Amir Shahzad's GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</p>
+
 ### Architecture & Engineering
 
 - Micro-Frontend Architecture
@@ -130,54 +169,5 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
   <img
     src="https://streak-stats.demolab.com?user=Amir00786&theme=tokyonight&hide_border=true"
     alt="GitHub Contribution Streak"
-  />
-</p>
-
-
-## 🤝 Let's Connect
-
-I'm interested in building high-quality web applications, solving challenging frontend problems, and collaborating on meaningful digital products.
-
-<p align="center">
- <a href="mailto:amirshahzadvu91@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Amir00786" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="YOUR_FACEBOOK_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://github.com/Amir00786">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-  </a>
-</p>
-<!-- <p align="center">
-  <a href="mailto:amirshahzadvu91@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Amir00786">
-    <img src="https://img.shields.io/badge/GitHub-Amir00786-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p> -->
-
-<p align="center">
-  <i>Building better digital experiences, one component at a time. 🚀</i>
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Amir00786&theme=tokyo-night&hide_border=true&area=true"
-    alt="Amir Shahzad's GitHub Contribution Activity Graph"
-    width="100%"
   />
 </p>
