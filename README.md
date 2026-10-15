@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Amir Shahzad
 
-### Senior Frontend Engineer | React.js • Next.js • TypeScript
+### Senior Frontend Engineer
 
 **Building scalable web applications, modern user interfaces, and AI-powered digital products.**
 
