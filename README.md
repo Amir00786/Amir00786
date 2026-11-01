@@ -131,7 +131,7 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
     width="48%"
   />
   <img
-    src="https://streak-stats.demolab.com?user=Amir00786&theme=transparent&hide_border=false&border=58A6FF&background=0D1117&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=Amir00786&theme=transparent&hide_border=false&border=58A6FF&background=0D1117&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=58A6FF&border_radius=12&sideLabels=58A6FF&dates=8B949E"
     alt="Amir Shahzad GitHub Contribution Streak"
     width="48%"
   />
