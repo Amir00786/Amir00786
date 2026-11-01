@@ -124,7 +124,7 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
 <!-- GitHub Stats -->
 
 <!-- GitHub Stats & Streak -->
-<div align="center" style="display: flex; justify-content: center; align-items: stretch; width: 100%;">
+<div style="display: flex; justify-content: center; align-items: stretch; width: 100%;">
   <img
     src="https://github-stats-extended.vercel.app/api?username=Amir00786&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false&border_color=58A6FF&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF"
     alt="Amir Shahzad GitHub Statistics"
