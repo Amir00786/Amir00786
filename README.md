@@ -120,21 +120,23 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
 
 ## 📊 GitHub Statistics
 
+
 <!-- GitHub Stats -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Amir00786&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api?username=Amir00786&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false&border_color=58A6FF&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF"
     alt="Amir Shahzad GitHub Statistics"
-    height="195"
+    width="100%"
   />
 </p>
 
 <!-- GitHub Streak -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Amir00786&theme=transparent&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=Amir00786&theme=transparent&hide_border=false&border=58A6FF&background=0D1117&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"
     alt="Amir Shahzad GitHub Contribution Streak"
-    height="195"
+    width="100%"
   />
 </p>
+
 
