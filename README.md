@@ -155,8 +155,8 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&layout=donut-vertical&langs_count=8&card_width=495&hide_border=false&border_color=58A6FF&border_radius=12&title_color=58A6FF&bg_color=0D1117&text_color=C9D1D9"
     alt="Most Used Languages"
-    width="30%"
-    height="600px"
+    width="50%"
+    height="800px"
   />
 </p>
 
