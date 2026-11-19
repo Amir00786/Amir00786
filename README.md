@@ -140,8 +140,18 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
     alt="Amir Shahzad GitHub Contribution Streak"
     width="49%"
   />
-
 </div>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&layout=donut&langs_count=8&card_width=495&hide_border=false&border_color=58A6FF&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    alt="Most Used Languages"
+    width="495"
+    height="250"
+  />
+</p>
+
 
 
 
