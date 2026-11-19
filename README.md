@@ -134,20 +134,19 @@ I specialize in reusable UI components, micro-frontend architecture, API integra
   src="https://github-stats-extended.vercel.app/api?username=Amir00786&show_icons=true&include_all_commits=true&rank_icon=percentile&hide_border=false&border_color=58A6FF&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=BC8CFF"
   alt="Amir Shahzad GitHub Statistics"
   width="49%"
-/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&layout=donut&langs_count=8&card_width=495&hide_border=false&border_color=58A6FF&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-    alt="Most Used Languages"
-    width="495"
-    height="250"
-  />
   <img
     src="https://streak-stats.demolab.com?user=Amir00786&theme=transparent&hide_border=false&border=58A6FF&background=0D1117&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=58A6FF&border_radius=12&sideLabels=58A6FF&dates=8B949E"
     alt="Amir Shahzad GitHub Contribution Streak"
     width="49%"
   />
+/>
 
 </div>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir00786&layout=donut&langs_count=8&card_width=495&hide_border=false&border_color=58A6FF&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    alt="Most Used Languages"
+    width="49%"
+  />
 
 
 
